@@ -53,16 +53,21 @@ Los datos originales contienen información como:
 ## 🧩 Estructura del Modelo
 
 ### Entidades Principales:
-- `campus`
-- `promocion`
-- `estudiante`
+- `Estudiante`
+- `Curso`
+- `Vertical`
 - `proyecto`
-- `resultado_proyecto`
+- `Notas`
+- `Campus`
+- `Claustro`
 
 ### Relaciones:
-- Un campus puede tener varias promociones
-- Una promoción puede tener muchos estudiantes
-- Un estudiante puede tener múltiples resultados en diferentes proyectos
+- Curso ↔️ Vertical 🠮 1:N
+- Curso ↔️ Campus 🠮 1:N
+- Vertical ↔️ Proyecto 🠮 1:N
+- Nota ↔️ Proyecto 🠮 se vincula a través de alumno_proyecto
+- Alumno ↔️ Nota 🠮 se vinculan a través de alumno_proyecto
+- Claustro ↔️ Curso 🠮 M:N
 
 ---
 
