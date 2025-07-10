@@ -76,8 +76,4 @@ Los datos originales contienen información como:
 
 ---
 
-## 🚀 Cómo Usar el Proyecto
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
