@@ -17,9 +17,9 @@ Diseñar e implementar una base de datos escalable y funcional en PostgreSQL, ap
 
 Este trabajo ha sido desarrollado por estudiantes del curso de **Data Science** y **Full Stack**:
 
-- Rufino Ovilla *(Data Science)*
+- Rufino Muñoz Ovilla *(Data Science)*
 - Jaime Garcia *(Data Science)*
-- Ana Gutiérres *(Data Science)*
+- Ana Gutiérrez Méndez *(Data Science)*
 - Eduardo Limones *(Data Science)*
 - Laura Smichowski *(Full Stack)*
 
