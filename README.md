@@ -62,12 +62,12 @@ Los datos originales contienen información como:
 - `claustro`
 
 ### Relaciones:
-- curso ↔️ vertical 🠮 1:n
-- curso ↔️ campus 🠮 1:n
-- curso ↔️ claustro 🠮 n:m
+- curso    ↔️ vertical 🠮 1:n
+- curso    ↔️ campus   🠮 1:n
+- curso    ↔️ claustro 🠮 n:m
 - vertical ↔️ proyecto 🠮 1:n
-- proyecto ↔️ notas 🠮 1:n
-- alumno ↔️ nota 🠮 1:n
+- proyecto ↔️ notas    🠮 1:n
+- alumno   ↔️ nota     🠮 1:n
 
 ---
 
