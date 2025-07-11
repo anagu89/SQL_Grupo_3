@@ -53,21 +53,21 @@ Los datos originales contienen información como:
 ## 🧩 Estructura del Modelo
 
 ### Entidades Principales:
-- `Estudiante`
-- `Curso`
-- `Vertical`
+- `alumno`
+- `curso`
+- `vertical`
 - `proyecto`
-- `Notas`
-- `Campus`
-- `Claustro`
+- `nota`
+- `campus`
+- `claustro`
 
 ### Relaciones:
-- Curso ↔️ Vertical 🠮 1:N
-- Curso ↔️ Campus 🠮 1:N
-- Vertical ↔️ Proyecto 🠮 1:N
-- Nota ↔️ Proyecto 🠮 se vincula a través de alumno_proyecto
-- Alumno ↔️ Nota 🠮 se vinculan a través de alumno_proyecto
-- Claustro ↔️ Curso 🠮 M:N
+- curso ↔️ vertical 🠮 1:n
+- curso ↔️ campus 🠮 1:n
+- curso ↔️ claustro 🠮 n:m
+- vertical ↔️ proyecto 🠮 1:n
+- proyecto ↔️ notas 🠮 1:n
+- alumno ↔️ nota 🠮 1:n
 
 ---
 
