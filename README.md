@@ -75,7 +75,7 @@ Los datos originales contienen información como:
 
 - PostgreSQL
 - SQL
-- dbdiagram.io (para diagramas)
+- draw.io (para diagramas)
 - Render (para hosting de la base de datos)
 - GitHub
 
