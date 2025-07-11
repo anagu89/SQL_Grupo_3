@@ -80,5 +80,3 @@ Los datos originales contienen información como:
 - GitHub
 
 ---
-
-
